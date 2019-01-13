@@ -1,0 +1,4 @@
+Use "->" for a pointer
+A "." if it's not
+"?:" is confusing
+So use this a lot
