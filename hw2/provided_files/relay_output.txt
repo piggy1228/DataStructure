@@ -1,0 +1,143 @@
+COUNTRY  PARTICIPANT                HEATS  SEMIS  FINALS    GOLD  SILVER  BRONZE
+--------------------------------------------------------------------------------
+ARG      Santiago GRASSI               1                                      
+AUS      Matthew ABOOD                 2                                      
+AUS      Kyle CHALMERS                 2              1                       1
+AUS      Grant IRVINE                  3      2                               
+AUS      James MAGNUSSEN               2              1                       1
+AUS      Travis MAHONEY                2                                      
+AUS      David MORGAN                  3      1                               
+AUS      Cameron McEVOY                               2                       1
+AUS      James ROBERTS                 1              2                       1
+BEL      Jasper AERENTS                1              2                       
+BEL      Louis CROENEN                 1      2                               
+BEL      Dieter DEKONINCK              2                                      
+BEL      Glenn SURGELOOSE              2              1                       
+BEL      Pieter TIMMERS                2              1                       
+BEL      Emmanuel VANLUCHENE           1              2                       
+BLR      Pavel SANKOVICH               2                                      
+BLR      Yauhen TSURKIN                2                                      
+BRA      Marcelo CHIERIGHINI           2              1                       
+BRA      Marcos MACEDO                 2                                      
+BRA      Kaio MARCIO                   1      2                               
+BRA      Henrique MARTINS              2                                      
+BRA      Nicolas NILO                  2              1                       
+BRA      Thiago PEREIRA                1      2       1                       
+BRA      Henrique RODRIGUES            2      1                               
+BRA      Matheus SANTANA               2                                      
+BRA      Gabriel SANTOS                1              2                       
+BRA      Leonardo de_DEUS              1      2                               
+BRA      Joao de_LUCCA                                2                       
+CAN      Santo CONDORELLI              2      1       2                       
+CAN      Yuri KISIL                    2              1                       
+CAN      Markus THORMEYER              2              1                       
+CAN      Evan Van_MOERKERKE            1              2                       
+CHN      Qibin HANG                    2                                      
+CHN      Yixuan HU                     2                                      
+CHN      Zhuhao LI                     3      1       1                       
+CHN      Shun WANG                     1      2       1                       1
+CHN      Yuhang WU                     2                                      
+COL      JD GOMEZ_NORIEGA              2      1                               
+DEN      Viktor BROMER                 1      1       2                       
+EGY      Mohamed HUSSEIN               2                                      
+ESP      Markel ALBERDI_SAROBE         2                                      
+ESP      Aitor MARTINEZ_RODRIGUEZ      2                                      
+ESP      Bruno ORTIZ_CANAVATE_OZEKI    2                                      
+ESP      Miguel ORTIZ_CANAVATE_OZEKI   2                                      
+ESP      Carlos PERALTA_GALLEGO        2                                      
+ESP      Eduardo SOLAECHE_GOMEZ        1      2                               
+FRA      Jordan COELHO                 2                                      
+FRA      Fabien GILOT                  1              2               1       
+FRA      Florent MANAUDOU                             2               1       
+FRA      Mehdy METELLA                 2      2       2               1       
+FRA      William MEYNARD               2                                      
+FRA      Clement MIGNON                2                                      
+FRA      Jeremy STRAVIUS               2              1               1       
+GBR      James GUY                     2      1                               
+GBR      Ieuan LLOYD                   1      2                               
+GBR      Dan WALLACE                   2      1                               
+GER      Steffen DEIBLER               3                                      
+GER      Philip HEINT                  2      1       1                       
+GER      Bjorn HORNIKEL                2                                      
+GER      Damian WIERLING               2                                      
+GER      Philipp WOLF                  2                                      
+GRE      Apostolos CHRISTOU            2                                      
+GRE      Stefanos DIMITRIADIS          2                                      
+GRE      Kristian GKOLOMEEV            2                                      
+GRE      Christos KATRANTZIS           2                                      
+GRE      Odyssefs MELADINIS            2                                      
+GRE      Andreas VAZAIOS               1      2                               
+GUA      Luis MARTINE                  2                                      
+GUY      Hannibal GASKIN               2                                      
+HON      Allan GUTIERRE                2                                      
+HUN      Laszlo CSEH                   3      2       2               1       
+HUN      Tamas KENDERESI               1      1       2                       1
+HUN      Bence PULAI                   2                                      
+INA      Glenn SUTANTO                 2                                      
+IND      Sajan_Prakash PRAKASH         2                                      
+IOA      Abbas QALI                    2                                      
+ISR      Gal NEVO                      3                                      
+ITA      Piero CODIA                   2      1                               
+ITA      Luca DOTTO                    2                                      
+ITA      Luca LEONARDI                 2                                      
+ITA      Marco ORSI                    2                                      
+ITA      Matteo RIVOLTA                2                                      
+ITA      Michele SANTUCCI              2                                      
+JPN      Takuro FUJII                  2                                      
+JPN      Hiromasa FUJIMORI             1      2       1                       
+JPN      Kosuke HAGINO                 1      2       1               1       
+JPN      Kenji KOBASE                  2                                      
+JPN      Junya KOGA                    2                                      
+JPN      Katsumi NAKAMURA              2                                      
+JPN      Masato SAKAI                  1      1       2               1       
+JPN      Daiya SETO                    1      2       1                       
+JPN      Shinri SHIOURA                2                                      
+LAT      Uvis KALNINS                  2                                      
+LUX      Raphael STACCHIOTTI           2                                      
+MAD      Anthonny_Sitraka RALEFY       2                                      
+MEX      Long GUTIERRE_FENG            2                                      
+MKD      Marko BLAZHEVSKI              2                                      
+MLI      Oumar TOURE                   2                                      
+NED      Joeri VERLINDEN               2                                      
+NZL      Bradlee ASHBY                 1      2                               
+PNG      Ryan PINI                     2                                      
+POL      Konrad CZERNIAK               3      1                               
+POL      Pawel KORZENIOWSKI            3                                      
+POL      Kacper MAJCHRZAK              2                                      
+POL      Jan SWITKOWSKI                3                                      
+POR      Diogo CARVALHO                2                                      
+POR      Alexis SANTOS                 2      1                               
+ROT      Rami ANIS                     2                                      
+ROU      Alin COSTE                    2                                      
+ROU      Daniel MACOVEI                2                                      
+ROU      Marius RADU                   2                                      
+ROU      Norbert TRANDAFIR             2                                      
+RSA      Sebastien_Daniel ROUSSEAU     2                                      
+RSA      Chad_Guy_Bertrand le_CLOS     2      3       2               1       
+RUS      Andrey GRECHIN                2              1                       
+RUS      Danila IZOTOV                 2              1                       
+RUS      Evgeny KOPTELOV               3      1                               
+RUS      Semen MAKOVICH                2                                      
+RUS      Vladimir MOROZOV                             2                       
+RUS      Daniil PAKHOMOV               2                                      
+RUS      Aleksandr POPKOV              2                                      
+RUS      Aleksandr SADOVNIKOV          2      1                               
+RUS      Alexander SUKHORUKOV          1              2                       
+SIN      Zheng_Wen QUAH                2      3                               
+SIN      Joseph SCHOOLING              2      1       1       1               
+SLO      Robert BOGAR                  2                                      
+SUI      Jeremy DESPLANCHES            2      1                               
+SWE      Simon SJODIN                  3      1                               
+TUN      Ahmed MATHLOUTHI              2                                      
+UKR      Liubomyr LEMESHKO             2                                      
+USA      Nathan ADRIAN                                2       1               
+USA      Caeleb DRESSEL                               2       1               
+USA      Anthony ERVIN                 2                                      
+USA      Jimmy FEIGEN                  2                                      
+USA      Ryan HELD                     2              1       1               
+USA      Ryan LOCHTE                   1      2       1                       
+USA      Michael PHELPS                4      3       4       3       1       
+USA      Blake PIERONI                 2                                      
+USA      Tom SHIELDS                   2      1       2                       
+VEN      Albert SUBIRATS               2                                      
+ZAM      Ralph GOVEIA_ASSAFRAO         2                                      
